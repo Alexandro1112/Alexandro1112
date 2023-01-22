@@ -1,5 +1,5 @@
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=522110&layout=compact)](https://ru.stackoverflow.com/users/522110/Алексндр-Босов)
+[![Sasha on  StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=522110&layout=compact)](https://ru.stackoverflow.com/users/522110/Алексндр-Босов)
 
 
 ![](https://komarev.com/ghpvc/?username=Alexandro1112)

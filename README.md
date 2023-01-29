@@ -3,6 +3,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandro1112&theme=solarized_dark)  ![](https://komarev.com/ghpvc/?username=Alexandro1112)
 
 <h1 align="center">Hi there, I'm Aleksandr &#128075</h1>
-<h3 align="center">Python-Developer,<br> from Russia 🇷🇺.<br>
-In the free time adore learn history, explore physic.<br><i>Strive for the best! &#128285 </i> </h3>
+<h3 align="center">Python-Developer🖥️,<br> from Russia 🇷🇺.<br>
+In the free time adore learn history, explore physic⚡.<br><i>Strive for the best! &#128285 </i> </h3>
+<h2 align="center">    I currently studying in middle school, city Krasnodar🏫<h2>
 

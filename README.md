@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandro1112)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandro1112&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandro1112&theme=solarized_dark&show_icons=true&bg_color=0111111)  ![](https://komarev.com/ghpvc/?username=Alexandro1112)
-<style>
+
 <h1 align="center">___________________<h1>
   ### :hammer_and_wrench: <i>Languages and Tools <i>:
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;

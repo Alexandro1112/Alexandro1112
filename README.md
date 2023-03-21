@@ -4,8 +4,12 @@
 ![](https://komarev.com/ghpvc/?username=Alexandro1112)
 
 
-<h1 align="center">___________________<h1>
+<h1 align="center">________________________________________________________<h1>
   ### :hammer_and_wrench: <i>Languages and Tools <i>:
+  
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" width="40" height="40">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="40" height="40"/>
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Python" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -18,9 +22,9 @@
 </div>
 <h1 align="center">Hi there, I'm Aleksandr &#128075</h1>
 <h2 align="center">Python-Developer🖥️,<br> from Russia 🇷🇺.<br>
-In the free time adore learn history, explore physic⚡.<br><i>Strive for the best! &#128285 </i> </h2>
+In the free time adore learn history, explore physic⚡.<br><i>I Strive for the best! &#128285 </i> </h2>
 <h3 align="center">    I currently studying in middle school, city Krasnodar🏫
-Learn web-developing, create application for mac, write chat-bots, parser-script, utilities
+Learn web-developing, js, css, bash, git, create application for mac, write chat-bots, parser-script, utilities
 earlier explored java.Try make anything useful!👌🏻<br>Have a good day!🤗
   <div>
   

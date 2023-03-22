@@ -5,7 +5,7 @@
 
 
 <h1 align="center">________________________________________________________<h1>
-  ### :hammer_and_wrench: <i>Languages and Tools <i>:
+  ### :hammer_and_wrench: <i> Languages and Tools <i>:
   <img align="center" src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg' width="90" height="90">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" width="40" height="40">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="40" height="40"/>
@@ -30,4 +30,4 @@ earlier explored java.Try make anything useful!👌🏻<br>Have a good day!🤗
   
   
   
-<h3>
+<h3>.

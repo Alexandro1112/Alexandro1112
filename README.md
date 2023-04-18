@@ -4,7 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=Alexandro1112)
 
 
-<h1 align="center">________________________________________________________<h1>
+<h1 align="center">____________________________________________________<h1>
+  
   ### :hammer_and_wrench: <i> Languages and Tools <i>:
   <img align="center" src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg' width="90" height="90">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" width="40" height="40">

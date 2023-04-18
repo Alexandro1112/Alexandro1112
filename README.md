@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandro1112)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandro1112&layout=compact)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alexandro1112)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandro1112&theme=solarized_dark&show_icons=true&bg_color=0111111)  
 ![](https://komarev.com/ghpvc/?username=Alexandro1112)
 
